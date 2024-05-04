@@ -1,4 +1,4 @@
-# senior_thesis
+# Information about each file 
 
 # BPSK_scheme - full BPSK scheme 
 
